@@ -13,7 +13,7 @@ The objects used as stimuli of this dataset have been drawn from [ShapeNet](http
 
 ## Format of the dataset
 
-The dataset is contained in the folder `shapenet_data/` and distributed in a txt file per figure. Each txt file contains 21000 lines, where each line is a sample formed by the 3 floats of time (i.e. ``0 0.01 0.109``).
+The dataset is contained in the folder `shapenet_data/` and distributed in a *txt* file per figure, named as the corresponding object (i.e. `bowl.txt`). Each *txt* file contains 21000 lines, where each line is a sample formed by the 3 floats of time (i.e. ``0 0.01 0.109``).
 
 ## References
 
