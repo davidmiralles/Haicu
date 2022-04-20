@@ -1,4 +1,4 @@
-# Seamless :open_file_folder:
+# Haptic Curvatures (Haicu) :open_file_folder:
 In this repository is available a virtual haptic information dataset, generated from typycal household objects. This information is based in local curvatures of the virtual objects and captured by the simulation of 3 fingers aproaching to the 3D figures.
 
 <img src="https://user-images.githubusercontent.com/66378073/142606662-5f03dd82-e4a6-4a6d-9dc7-dc3cc6c2fc36.png" alt="Fingers simulation" width="300" height="auto">
